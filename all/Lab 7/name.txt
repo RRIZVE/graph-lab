@@ -1,0 +1,4 @@
+1. Rotate a point about origin.
+2. Rotate a point about another point.
+3. Rotate a line about a point.
+4. Rotate a triangle about a point
